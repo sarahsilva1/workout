@@ -17,7 +17,7 @@ export default class workout extends Component {
 
           <View style={{flex: 6, backgroundColor: '#404c99'}}>
             <Text style={{padding: 20, fontSize: 26, color: 'yellow', textAlign: 'center'}}>
-              Aaron's Workout Tracker
+              Workout Tracker
             </Text>
             <Text style={{padding: 20, fontSize: 20, color: 'yellow', textAlign: 'center'}}>
               Please enter your email address and password to begin!
